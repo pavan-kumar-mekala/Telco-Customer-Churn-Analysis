@@ -38,6 +38,6 @@ service experience, and CLTV to recommend high-impact retention strategies.
 - Expand referral programs to reduce churn
 
 ## Files
-- `/sql/` → All analysis queries
-- `/powerbi/` → Dashboard screenshots
+- `/Telco Churn Analysis.sql/` → All analysis queries
+- `/Telco Dashbaord/` → Dashboard screenshots
 - `README.md` → Project documentation
